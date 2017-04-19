@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3WebSessionManagement", "3WebSessionManagement\3WebSessionManagement.csproj", "{C9E66B6A-D9AB-40F7-B062-3C76B732271F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23DesginMode", "23DesginMode\23DesginMode.csproj", "{BC952A0E-294A-4A83-A377-3562B9DAC692}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C9E66B6A-D9AB-40F7-B062-3C76B732271F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9E66B6A-D9AB-40F7-B062-3C76B732271F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9E66B6A-D9AB-40F7-B062-3C76B732271F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC952A0E-294A-4A83-A377-3562B9DAC692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC952A0E-294A-4A83-A377-3562B9DAC692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC952A0E-294A-4A83-A377-3562B9DAC692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC952A0E-294A-4A83-A377-3562B9DAC692}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

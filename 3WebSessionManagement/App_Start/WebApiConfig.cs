@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web.Http;
+﻿using System.Web.Http;
 
-namespace _3WebSessionManagement
+namespace _3WebSessionManagement.App_Start
 {
     public static class WebApiConfig
     {
