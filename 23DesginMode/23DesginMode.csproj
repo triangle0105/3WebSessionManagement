@@ -42,6 +42,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="32Modes\Mode1_Singleton.cs" />
+    <Compile Include="32Modes\Mode2_SimpleFactory.cs" />
+    <Compile Include="32Modes\Mode3_FactoryMethod.cs" />
+    <Compile Include="32Modes\Mode4_AbstractFactory.cs" />
+    <Compile Include="32Modes\Mode5_BuilderPattern.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
