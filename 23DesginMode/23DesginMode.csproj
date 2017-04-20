@@ -46,6 +46,9 @@
     <Compile Include="32Modes\Mode3_FactoryMethod.cs" />
     <Compile Include="32Modes\Mode4_AbstractFactory.cs" />
     <Compile Include="32Modes\Mode5_BuilderPattern.cs" />
+    <Compile Include="32Modes\Mode6_AdapterPattern.cs" />
+    <Compile Include="32Modes\Mode7_PrototypePattern.cs" />
+    <Compile Include="32Modes\Mode8_BridgePattern.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
